@@ -1,0 +1,744 @@
+Abomasnow 90 92 75 92 85 Grass Ice
+Abra 25 20 15 105 55 Psychic
+Absol 65 130 60 75 60 Dark
+Accelgor 80 70 40 100 60 Bug
+Aegislash-B 60 150 50 150 50 Steel Ghost
+Aegislash-S 60 50 150 50 150 Steel Ghost
+Aerodactyl 80 105 65 60 75 Rock Flying
+Aggron 70 110 180 60 60 Steel Rock
+Aipom 55 70 55 40 55 Normal
+Alakazam 55 50 45 135 95 Psychic
+Alomomola 165 75 80 40 45 Water
+Altaria 75 70 90 70 105 Dragon Flying
+Amaura 77 59 50 67 63 Rock Ice
+Ambipom 75 100 66 60 66 Normal
+Amoonguss 114 85 70 85 80 Grass Poison
+Ampharos 90 75 85 115 90 Electric
+Anorith 45 95 50 40 50 Rock Bug
+Arbok 60 85 69 65 79 Poison
+Arcanine 90 110 80 100 80 Fire
+Arceus 120 120 120 120 120 Normal
+Archen 55 112 45 74 45 Rock Flying
+Archeops 75 140 65 112 65 Rock Flying
+Ariados 70 90 70 60 60 Bug Poison
+Armaldo 75 125 100 70 80 Rock Bug
+Aromatisse 101 72 72 99 89 Fairy
+Aron 50 70 100 40 40 Steel Rock
+Articuno 90 85 100 95 125 Ice Flying
+Audino 103 60 86 60 86 Normal
+Aurorus 123 77 72 99 92 Rock Ice
+Avalugg 95 117 184 44 46 Ice
+Axew 46 87 60 30 40 Dragon
+Azelf 75 125 70 125 70 Psychic
+Azumarill 100 50 80 60 80 Water Fairy
+Azurill 50 20 40 20 40 Normal Fairy
+Bagon 45 75 60 40 30 Dragon
+Baltoy 40 40 55 40 70 Ground Psychic
+Banette 64 115 65 83 63 Ghost
+Barbaracle 72 105 115 54 86 Rock Water
+Barboach 50 48 43 46 41 Water Ground
+Basculin 70 92 65 80 55 Water
+Bastiodon 60 52 168 47 138 Rock Steel
+Bayleef 60 62 80 63 80 Grass
+Beartic 95 110 80 70 80 Ice
+Beautifly 60 70 50 100 50 Bug Flying
+Beedrill 65 90 40 45 80 Bug Poison
+Beheeyem 75 75 75 125 95 Psychic
+Beldum 40 55 80 35 60 Steel Psychic
+Bellossom 75 80 95 90 100 Grass
+Bellsprout 50 75 35 70 30 Grass Poison
+Bergmite 55 69 85 32 35 Ice
+Bibarel 79 85 60 55 60 Normal Water
+Bidoof 59 45 40 35 40 Normal
+Binacle 42 52 67 39 56 Rock Water
+Bisharp 65 125 100 60 70 Dark Steel
+Blastoise 79 83 100 85 105 Water
+Blaziken 80 120 70 110 70 Fire Fighting
+Blissey 255 10 10 75 135 Normal
+Blitzle 45 60 32 50 32 Electric
+Boldore 70 105 105 50 40 Rock
+Bonsly 50 80 95 10 45 Rock
+Bouffalant 95 110 95 40 95 Normal
+Braixen 59 59 58 90 70 Fire
+Braviary 100 123 75 57 75 Normal Flying
+Breloom 60 130 80 60 60 Grass Fighting
+Bronzong 67 89 116 79 116 Steel Psychic
+Bronzor 57 24 86 24 86 Steel Psychic
+Budew 40 30 35 50 70 Grass Poison
+Buizel 55 65 35 60 30 Water
+Bulbasaur 45 49 49 65 65 Grass Poison
+Buneary 55 66 44 44 56 Normal
+Bunnelby 38 36 38 32 36 Normal
+Burmy 40 29 45 29 45 Bug
+Butterfree 60 45 50 90 80 Bug Flying
+Cacnea 50 85 40 85 40 Grass
+Cacturne 70 115 60 115 60 Grass Dark
+Camerupt 70 100 70 105 75 Fire Ground
+Carbink 50 50 150 50 150 Rock Fairy
+Carnivine 74 100 72 90 72 Grass
+Carracosta 74 108 133 83 65 Water Rock
+Carvanha 45 90 20 65 20 Water Dark
+Cascoon 50 35 55 25 25 Bug
+Castform 70 70 70 70 70 Normal
+Caterpie 45 30 35 20 20 Bug
+Celebi 100 100 100 100 100 Psychic Grass
+Chandelure 60 55 90 145 90 Ghost Fire
+Chansey 250 5 5 35 105 Normal
+Charizard 78 84 78 109 85 Fire Flying
+Charmander 39 52 43 60 50 Fire
+Charmeleon 58 64 58 80 65 Fire
+Chatot 76 65 45 92 42 Normal Flying
+Cherrim 70 60 70 87 78 Grass
+Cherubi 45 35 45 62 53 Grass
+Chesnaught 88 107 122 74 75 Grass Fighting
+Chespin 56 61 65 48 45 Grass
+Chikorita 45 49 65 49 65 Grass
+Chimchar 44 58 44 58 44 Fire
+Chimecho 65 50 70 95 80 Psychic
+Chinchou 75 38 38 56 56 Water Electric
+Chingling 45 30 50 65 50 Psychic
+Cinccino 75 95 60 65 60 Normal
+Clamperl 35 64 85 74 55 Water
+Clauncher 50 53 62 58 63 Water
+Clawitzer 71 73 88 120 89 Water
+Claydol 60 70 105 70 120 Ground Psychic
+Clefable 95 70 73 95 90 Fairy
+Clefairy 70 45 48 60 65 Fairy
+Cleffa 50 25 28 45 55 Fairy
+Cloyster 50 95 180 85 45 Water Ice
+Cobalion 91 90 129 90 72 Steel Fighting
+Cofagrigus 58 50 145 95 105 Ghost
+Combee 30 30 42 30 42 Bug Flying
+Combusken 60 85 60 85 60 Fire Fighting
+Conkeldurr 105 140 95 55 65 Fighting
+Corphish 43 80 65 50 35 Water
+Corsola 55 55 85 65 85 Water Rock
+Cottonee 40 27 60 37 50 Grass Fairy
+Cradily 86 81 97 81 107 Rock Grass
+Cranidos 67 125 40 30 30 Rock
+Crawdaunt 63 120 85 90 55 Water Dark
+Cresselia 120 70 120 75 130 Psychic
+Croagunk 48 61 40 61 40 Poison Fighting
+Crobat 85 90 80 70 80 Poison Flying
+Croconaw 65 80 80 59 63 Water
+Crustle 70 95 125 65 75 Bug Rock
+Cryogonal 70 50 30 95 135 Ice
+Cubchoo 55 70 40 60 40 Ice
+Cubone 50 50 95 40 50 Ground
+Cyndaquil 39 52 43 60 50 Fire
+Darkrai 70 90 90 135 90 Dark
+Darmanitan 105 140 55 30 55 Fire
+Darmanitan-Z 105 30 105 140 105 Fire Psychic
+Darumaka 70 90 45 15 45 Fire
+Dedenne 67 58 57 81 67 Electric Fairy
+Deerling 60 60 50 40 50 Normal Grass
+Deino 52 65 50 45 50 Dark Dragon
+Delcatty 70 65 65 55 55 Normal
+Delibird 45 55 45 65 45 Ice Flying
+Delphox 75 69 72 114 100 Fire Psychic
+Deoxys 50 150 50 150 50 Psychic
+Deoxys-A 50 180 20 180 20 Psychic
+Deoxys-D 50 70 160 70 160 Psychic
+Deoxys-S 50 95 90 95 90 Psychic
+Dewgong 90 70 80 70 95 Water Ice
+Dewott 75 75 60 83 60 Water
+Dialga 100 120 120 150 100 Steel Dragon
+Diggersby 85 56 77 50 77 Normal Ground
+Diglett 10 55 25 35 45 Ground
+Ditto 48 48 48 48 48 Normal
+Dodrio 60 110 70 60 60 Normal Flying
+Doduo 35 85 45 35 35 Normal Flying
+Donphan 90 120 120 60 60 Ground
+Doublade 59 110 150 45 49 Steel Ghost
+Dragalge 65 75 90 97 123 Poison Dragon
+Dragonair 61 84 65 70 70 Dragon
+Dragonite 91 134 95 100 100 Dragon Flying
+Drapion 70 90 110 60 75 Poison Dark
+Dratini 41 64 45 50 50 Dragon
+Drifblim 150 80 44 90 54 Ghost Flying
+Drifloon 90 50 34 60 44 Ghost Flying
+Drilbur 60 85 40 30 45 Ground
+Drowzee 60 48 45 43 90 Psychic
+Druddigon 77 120 90 60 90 Dragon
+Ducklett 62 44 50 44 50 Water Flying
+Dugtrio 35 80 50 50 70 Ground
+Dunsparce 100 70 70 65 65 Normal
+Duosion 65 40 50 125 60 Psychic
+Durant 58 109 112 48 48 Bug Steel
+Dusclops 40 70 130 60 130 Ghost
+Dusknoir 45 100 135 65 135 Ghost
+Duskull 20 40 90 30 90 Ghost
+Dustox 60 50 70 50 90 Bug Poison
+Dwebble 50 65 85 35 35 Bug Rock
+Eelektrik 65 85 70 75 70 Electric
+Eelektross 85 115 80 105 80 Electric
+Eevee 55 55 50 45 65 Normal
+Ekans 35 60 44 40 54 Poison
+Electabuzz 65 83 57 95 85 Electric
+Electivire 75 123 67 95 85 Electric
+Electrike 40 45 40 65 40 Electric
+Electrode 60 50 70 80 80 Electric
+Elekid 45 63 37 65 55 Electric
+Elgyem 55 55 55 85 55 Psychic
+Emboar 110 123 65 100 65 Fire Fighting
+Emolga 55 75 60 75 60 Electric Flying
+Empoleon 84 86 88 111 101 Water Steel
+Entei 115 115 85 90 75 Fire
+Escavalier 70 135 105 60 105 Bug Steel
+Espeon 65 65 60 130 95 Psychic
+Espurr 62 48 54 63 60 Psychic
+Excadrill 110 135 60 50 65 Ground Steel
+Exeggcute 60 40 80 60 45 Grass Psychic
+Exeggutor 95 95 85 125 65 Grass Psychic
+Exploud 104 91 63 91 73 Normal
+Farfetch'd 52 65 55 58 62 Normal Flying
+Fearow 65 90 65 61 61 Normal Flying
+Feebas 20 15 20 10 55 Water
+Fennekin 40 45 40 62 60 Fire
+Feraligatr 85 105 100 79 83 Water
+Ferroseed 44 50 91 24 86 Grass Steel
+Ferrothorn 74 94 131 54 116 Grass Steel
+Finneon 49 49 56 49 61 Water
+Flaaffy 70 55 55 80 60 Electric
+Flab¨¦b¨¦ 44 38 39 61 79 Fairy
+Flareon 65 130 60 95 110 Fire
+Fletchinder 62 73 55 56 52 Fire Flying
+Fletchling 45 50 43 40 38 Normal Flying
+Floatzel 85 105 55 85 50 Water
+Floette 54 45 47 75 98 Fairy
+Florges 78 65 68 112 154 Fairy
+Flygon 80 100 80 80 80 Ground Dragon
+Foongus 69 55 45 55 55 Grass Poison
+Forretress 75 90 140 60 60 Bug Steel
+Fraxure 66 117 70 40 50 Dragon
+Frillish 55 40 50 65 85 Water Ghost
+Froakie 41 56 40 62 44 Water
+Frogadier 54 63 52 83 56 Water
+Froslass 70 80 70 80 70 Ice Ghost
+Furfrou 75 80 60 65 90 Normal
+Furret 85 76 64 45 55 Normal
+Gabite 68 90 65 50 55 Dragon Ground
+Gallade 68 125 65 65 115 Psychic Fighting
+Galvantula 70 77 60 97 60 Bug Electric
+Garbodor 80 95 82 60 82 Poison
+Garchomp 108 130 95 80 85 Dragon Ground
+Gardevoir 68 65 65 125 115 Psychic Fairy
+Gastly 30 35 30 100 35 Ghost Poison
+Gastrodon 111 83 68 92 82 Water Ground
+Genesect 71 120 95 120 95 Bug Steel
+Gengar 60 65 60 130 75 Ghost Poison
+Geodude 40 80 100 30 30 Rock Ground
+Gible 58 70 45 40 45 Dragon Ground
+Gigalith 85 135 130 60 80 Rock
+Girafarig 70 80 65 90 65 Normal Psychic
+Giratina 150 100 120 100 120 Ghost Dragon
+Giratina-O 150 120 100 120 100 Ghost Dragon
+Glaceon 65 60 110 130 95 Ice
+Glalie 80 80 80 80 80 Ice
+Glameow 49 55 42 42 37 Normal
+Gligar 65 75 105 35 65 Ground Flying
+Gliscor 75 95 125 45 75 Ground Flying
+Gloom 60 65 70 85 75 Grass Poison
+Gogoat 123 100 62 97 81 Grass
+Golbat 75 80 70 65 75 Poison Flying
+Goldeen 45 67 60 35 50 Water
+Golduck 80 82 78 95 80 Water
+Golem 80 120 130 55 65 Rock Ground
+Golett 59 74 50 35 50 Ground Ghost
+Golurk 89 124 80 55 80 Ground Ghost
+Goodra 90 100 70 110 150 Dragon
+Goomy 45 50 35 55 75 Dragon
+Gorebyss 55 84 105 114 75 Water
+Gothita 45 30 50 55 65 Psychic
+Gothitelle 70 55 95 95 110 Psychic
+Gothorita 60 45 70 75 85 Psychic
+Gourgeist 65 90 122 58 75 Ghost Grass
+Gourgeist-L 75 95 122 58 75 Ghost Grass
+Gourgeist-Sm 55 85 122 58 75 Ghost Grass
+Gourgeist-Su 85 100 122 58 75 Ghost Grass
+Granbull 90 120 75 60 60 Fairy
+Graveler 55 95 115 45 45 Rock Ground
+Greninja 72 95 67 103 71 Water Dark
+Grimer 80 80 50 40 50 Poison
+Grotle 75 89 85 55 65 Grass
+Groudon 100 150 140 100 90 Ground
+Grovyle 50 65 45 85 65 Grass
+Growlithe 55 70 45 70 50 Fire
+Grumpig 80 45 65 90 110 Psychic
+Gulpin 70 43 53 43 53 Poison
+Gurdurr 85 105 85 40 50 Fighting
+Gyarados 95 125 79 60 100 Water Flying
+Happiny 100 5 5 15 65 Normal
+Hariyama 144 120 60 40 60 Fighting
+Haunter 45 50 45 115 55 Ghost Poison
+Hawlucha 78 92 75 74 63 Fighting Flying
+Haxorus 76 147 90 60 70 Dragon
+Heatmor 85 97 66 105 66 Fire
+Heatran 91 90 106 130 106 Fire Steel
+Heliolisk 62 55 52 109 94 Electric Normal
+Helioptile 44 38 33 61 43 Electric Normal
+Heracross 80 125 75 40 95 Bug Fighting
+Herdier 65 80 65 35 65 Normal
+Hippopotas 68 72 78 38 42 Ground
+Hippowdon 108 112 118 68 72 Ground
+Hitmonchan 50 105 79 35 110 Fighting
+Hitmonlee 50 120 53 35 110 Fighting
+Hitmontop 50 95 95 35 110 Fighting
+Ho-Oh 106 130 90 110 154 Fire Flying
+Honchkrow 100 125 52 105 52 Dark Flying
+Honedge 45 80 100 35 37 Steel Ghost
+Hoothoot 60 30 30 36 56 Normal Flying
+Hoppip 35 35 40 35 55 Grass Flying
+Horsea 30 40 70 70 25 Water
+Houndoom 75 90 50 110 80 Dark Fire
+Houndour 45 60 30 80 50 Dark Fire
+Huntail 55 104 105 94 75 Water
+Hydreigon 92 105 90 125 90 Dark Dragon
+Hypno 85 73 70 73 115 Psychic
+Igglybuff 90 30 15 40 20 Normal Fairy
+Illumise 65 47 55 73 75 Bug
+Infernape 76 104 71 104 71 Fire Fighting
+Inkay 53 54 53 37 46 Dark Psychic
+Ivysaur 60 62 63 80 80 Grass Poison
+Jellicent 100 60 70 85 105 Water Ghost
+Jigglypuff 115 45 20 45 25 Normal Fairy
+Jirachi 100 100 100 100 100 Steel Psychic
+Jolteon 65 65 60 110 95 Electric
+Joltik 50 47 50 57 50 Bug Electric
+Jumpluff 75 55 70 55 95 Grass Flying
+Jynx 65 50 35 115 95 Ice Psychic
+Kabuto 30 80 90 55 45 Rock Water
+Kabutops 60 115 105 65 70 Rock Water
+Kadabra 40 35 30 120 70 Psychic
+Kakuna 45 25 50 25 25 Bug Poison
+Kangaskhan 105 95 80 40 80 Normal
+Karrablast 50 75 45 40 45 Bug
+Kecleon 60 90 70 60 120 Normal
+Keldeo 91 72 90 129 90 Water Fighting
+Kingdra 75 95 95 95 95 Water Dragon
+Kingler 55 130 115 50 50 Water
+Kirlia 38 35 35 65 55 Psychic Fairy
+Klang 60 80 95 70 85 Steel
+Klefki 57 80 91 80 87 Steel Fairy
+Klink 40 55 70 45 60 Steel
+Klinklang 60 100 115 70 85 Steel
+Koffing 40 65 95 60 45 Poison
+Krabby 30 105 90 25 25 Water
+Kricketot 37 25 41 25 41 Bug
+Kricketune 77 85 51 55 51 Bug
+Krokorok 60 82 45 45 45 Ground Dark
+Krookodile 95 117 80 65 70 Ground Dark
+Kyogre 100 100 90 150 140 Water
+Kyurem 125 130 90 130 90 Dragon Ice
+Kyurem-B 125 170 100 120 90 Dragon Ice
+Kyurem-W 125 120 90 170 100 Dragon Ice
+Lairon 60 90 140 50 50 Steel Rock
+Lampent 60 40 60 95 60 Ghost Fire
+Landorus 89 125 90 115 80 Ground Flying
+Landorus-T 89 145 90 105 80 Ground Flying
+Lanturn 125 58 58 76 76 Water Electric
+Lapras 130 85 80 85 95 Water Ice
+Larvesta 55 85 55 50 55 Bug Fire
+Larvitar 50 64 50 45 50 Rock Ground
+Latias 80 80 90 110 130 Dragon Psychic
+Latios 80 90 80 130 110 Dragon Psychic
+Leafeon 65 110 130 60 65 Grass
+Leavanny 75 103 80 70 80 Bug Grass
+Ledian 55 35 50 55 110 Bug Flying
+Ledyba 40 20 30 40 80 Bug Flying
+Lickilicky 110 85 95 80 95 Normal
+Lickitung 90 55 75 60 75 Normal
+Liepard 64 88 50 88 50 Dark
+Lileep 66 41 77 61 87 Rock Grass
+Lilligant 70 60 75 110 75 Grass
+Lillipup 45 60 45 25 45 Normal
+Linoone 78 70 61 50 61 Normal
+Litleo 62 50 58 73 54 Fire Normal
+Litwick 50 30 55 65 55 Ghost Fire
+Lombre 60 50 50 60 70 Water Grass
+Lopunny 65 76 84 54 96 Normal
+Lotad 40 30 30 40 50 Water Grass
+Loudred 84 71 43 71 43 Normal
+Lucario 70 110 70 115 70 Fighting Steel
+Ludicolo 80 70 70 90 100 Water Grass
+Lugia 106 90 130 90 154 Psychic Flying
+Lumineon 69 69 76 69 86 Water
+Lunatone 70 55 65 95 85 Rock Psychic
+Luvdisc 43 30 55 40 65 Water
+Luxio 60 85 49 60 49 Electric
+Luxray 80 120 79 95 79 Electric
+Machamp 90 130 80 65 85 Fighting
+Machoke 80 100 70 50 60 Fighting
+Machop 70 80 50 35 35 Fighting
+Magby 45 75 37 70 55 Fire
+Magcargo 50 50 120 80 80 Fire Rock
+Magikarp 20 10 55 15 20 Water
+Magmar 65 95 57 100 85 Fire
+Magmortar 75 95 67 125 95 Fire
+Magnemite 25 35 70 95 55 Electric Steel
+Magneton 50 60 95 120 70 Electric Steel
+Magnezone 70 70 115 130 90 Electric Steel
+Makuhita 72 60 30 20 30 Fighting
+Malamar 86 92 88 68 75 Dark Psychic
+Mamoswine 110 130 80 70 60 Ice Ground
+Manaphy 100 100 100 100 100 Water
+Mandibuzz 110 65 105 55 95 Dark Flying
+Manectric 70 75 60 105 60 Electric
+Mankey 40 80 35 35 45 Fighting
+Mantine 65 40 70 80 140 Water Flying
+Mantyke 45 20 50 60 120 Water Flying
+Maractus 75 86 67 106 67 Grass
+Mareep 55 40 40 65 45 Electric
+Marill 70 20 50 20 50 Water Fairy
+Marowak 60 80 110 50 80 Ground
+Marshtomp 70 85 70 60 70 Water Ground
+Masquerain 70 60 62 80 82 Bug Flying
+Mawile 50 85 85 55 55 Steel Fairy
+Medicham 60 60 75 60 75 Fighting Psychic
+Meditite 30 40 55 40 55 Fighting Psychic
+Meganium 80 82 100 83 100 Grass
+Meloetta 100 77 77 128 128 Normal Psychic
+Meloetta-P 100 128 90 77 77 Normal Fighting
+Meowstic 74 48 76 83 81 Psychic
+Meowth 40 45 35 40 40 Normal
+Mesprit 80 105 105 105 105 Psychic
+Metagross 80 135 130 95 90 Steel Psychic
+Metang 60 75 100 55 80 Steel Psychic
+Metapod 50 20 55 25 25 Bug
+Mew 100 100 100 100 100 Psychic
+Mewtwo 106 110 90 154 90 Psychic
+Mienfoo 45 85 50 55 50 Fighting
+Mienshao 65 125 60 95 60 Fighting
+Mightyena 70 90 70 60 60 Dark
+Milotic 95 60 79 100 125 Water
+Miltank 95 80 105 40 70 Normal
+Mime_Jr. 20 25 45 70 90 Psychic Fairy
+Minccino 55 50 40 40 40 Normal
+Minun 60 40 50 75 85 Electric
+Misdreavus 60 60 60 85 85 Ghost
+Mismagius 60 60 60 105 105 Ghost
+Moltres 90 100 90 125 85 Fire Flying
+Monferno 64 78 52 78 52 Fire Fighting
+Mothim 70 94 50 94 50 Bug Flying
+Mr._Mime 40 45 65 100 120 Psychic Fairy
+Mudkip 50 70 50 50 50 Water
+Muk 105 105 75 65 100 Poison
+Munchlax 135 85 40 40 85 Normal
+Munna 76 25 45 67 55 Psychic
+Murkrow 60 85 42 85 42 Dark Flying
+Musharna 116 55 85 107 95 Psychic
+Natu 40 50 45 70 45 Psychic Flying
+Nidoking 81 102 77 85 75 Poison Ground
+Nidoqueen 90 92 87 75 85 Poison Ground
+Nidoran¡â 55 47 52 40 40 Poison
+Nidoran¡á 46 57 40 40 40 Poison
+Nidorina 70 62 67 55 55 Poison
+Nidorino 61 72 57 55 55 Poison
+Nincada 31 45 90 30 30 Bug Ground
+Ninetales 73 76 75 81 100 Fire
+Ninjask 61 90 45 50 50 Bug Flying
+Noctowl 100 50 50 76 96 Normal Flying
+Noibat 40 30 35 45 40 Flying Dragon
+Noivern 85 70 80 97 80 Flying Dragon
+Nosepass 30 45 135 45 90 Rock
+Numel 60 60 40 65 45 Fire Ground
+Nuzleaf 70 70 40 60 40 Grass Dark
+Octillery 75 105 75 105 75 Water
+Oddish 45 50 55 75 65 Grass Poison
+Omanyte 35 40 100 90 55 Rock Water
+Omastar 70 60 125 115 70 Rock Water
+Onix 35 45 160 30 45 Rock Ground
+Oshawott 55 55 45 63 45 Water
+Pachirisu 60 45 70 45 90 Electric
+Palkia 90 120 100 150 120 Water Dragon
+Palpitoad 75 65 55 65 55 Water Ground
+Pancham 67 82 62 46 48 Fighting
+Pangoro 95 124 78 69 71 Fighting Dark
+Panpour 50 53 48 53 48 Water
+Pansage 50 53 48 53 48 Grass
+Pansear 50 53 48 53 48 Fire
+Paras 35 70 55 45 55 Bug Grass
+Parasect 60 95 80 60 80 Bug Grass
+Patrat 45 55 39 35 39 Normal
+Pawniard 45 85 70 40 40 Dark Steel
+Pelipper 60 50 100 85 70 Water Flying
+Persian 65 70 60 65 65 Normal
+Petilil 45 35 50 70 50 Grass
+Phanpy 90 60 60 40 40 Ground
+Phantump 43 70 48 50 60 Ghost Grass
+Phione 80 80 80 80 80 Water
+Pichu 20 40 15 35 35 Electric
+Pidgeot 83 80 75 70 70 Normal Flying
+Pidgeotto 63 60 55 50 50 Normal Flying
+Pidgey 40 45 40 35 35 Normal Flying
+Pidove 50 55 50 36 30 Normal Flying
+Pignite 90 93 55 70 55 Fire Fighting
+Pikachu 35 55 40 50 50 Electric
+Piloswine 100 100 80 60 60 Ice Ground
+Pineco 50 65 90 35 35 Bug
+Pinsir 65 125 100 55 70 Bug
+Piplup 53 51 53 61 56 Water
+Plusle 60 50 40 85 75 Electric
+Politoed 90 75 75 90 100 Water
+Poliwag 40 50 40 40 40 Water
+Poliwhirl 65 65 65 50 50 Water
+Poliwrath 90 95 95 70 90 Water Fighting
+Ponyta 50 85 55 65 65 Fire
+Poochyena 35 55 35 30 30 Dark
+Porygon 65 60 70 85 75 Normal
+Porygon-Z 85 80 70 135 75 Normal
+Porygon2 85 80 90 105 95 Normal
+Primeape 65 105 60 60 70 Fighting
+Prinplup 64 66 68 81 76 Water
+Probopass 60 55 145 75 150 Rock Steel
+Psyduck 50 52 48 65 50 Water
+Pumpkaboo 49 66 70 44 55 Ghost Grass
+Pumpkaboo-L 54 66 70 44 55 Ghost Grass
+Pumpkaboo-Sm 44 66 70 44 55 Ghost Grass
+Pumpkaboo-Su 59 66 70 44 55 Ghost Grass
+Pupitar 70 84 70 65 70 Rock Ground
+Purrloin 41 50 37 50 37 Dark
+Purugly 71 82 64 64 59 Normal
+Pyroar 86 68 72 109 66 Fire Normal
+Quagsire 95 85 85 65 65 Water Ground
+Quilava 58 64 58 80 65 Fire
+Quilladin 61 78 95 56 58 Grass
+Qwilfish 65 95 75 55 55 Water Poison
+Raichu 60 90 55 90 80 Electric
+Raikou 90 85 75 115 100 Electric
+Ralts 28 25 25 45 35 Psychic Fairy
+Rampardos 97 165 60 65 50 Rock
+Rapidash 65 100 70 80 80 Fire
+Raticate 55 81 60 50 70 Normal
+Rattata 30 56 35 25 35 Normal
+Rayquaza 105 150 90 150 90 Dragon Flying
+Regice 80 50 100 100 200 Ice
+Regigigas 110 160 110 80 110 Normal
+Regirock 80 100 200 50 100 Rock
+Registeel 80 75 150 75 150 Steel
+Relicanth 100 90 130 45 65 Water Rock
+Remoraid 35 65 35 65 35 Water
+Reshiram 100 120 100 150 120 Dragon Fire
+Reuniclus 110 65 75 125 85 Psychic
+Rhydon 105 130 120 45 45 Ground Rock
+Rhyhorn 80 85 95 30 30 Ground Rock
+Rhyperior 115 140 130 55 55 Ground Rock
+Riolu 40 70 40 35 40 Fighting
+Roggenrola 55 75 85 25 25 Rock
+Roselia 50 60 45 100 80 Grass Poison
+Roserade 60 70 65 125 105 Grass Poison
+Rotom 50 50 77 95 77 Electric Ghost
+Rotom-Fa 50 65 107 105 107 Electric Flying
+Rotom-Fr 50 65 107 105 107 Electric Ice
+Rotom-H 50 65 107 105 107 Electric Fire
+Rotom-M 50 65 107 105 107 Electric Grass
+Rotom-W 50 65 107 105 107 Electric Water
+Rufflet 70 83 50 37 50 Normal Flying
+Sableye 50 75 75 65 65 Dark Ghost
+Salamence 95 135 80 110 80 Dragon Flying
+Samurott 95 100 85 108 70 Water
+Sandile 50 72 35 35 35 Ground Dark
+Sandshrew 50 75 85 20 30 Ground
+Sandslash 75 100 110 45 55 Ground
+Sawk 75 125 75 30 75 Fighting
+Sawsbuck 80 100 70 60 70 Normal Grass
+Scatterbug 38 35 40 27 25 Bug
+Sceptile 70 85 65 105 85 Grass
+Scizor 70 130 100 55 80 Bug Steel
+Scolipede 60 100 89 55 69 Bug Poison
+Scrafty 65 90 115 45 115 Dark Fighting
+Scraggy 50 75 70 35 70 Dark Fighting
+Scyther 70 110 80 55 80 Bug Flying
+Seadra 55 65 95 95 45 Water
+Seaking 80 92 65 65 80 Water
+Sealeo 90 60 70 75 70 Ice Water
+Seedot 40 40 50 30 30 Grass
+Seel 65 45 55 45 70 Water
+Seismitoad 105 95 75 85 75 Water Ground
+Sentret 35 46 34 35 45 Normal
+Serperior 75 75 95 75 95 Grass
+Servine 60 60 75 60 75 Grass
+Seviper 73 100 60 100 60 Poison
+Sewaddle 45 53 70 40 60 Bug Grass
+Sharpedo 70 120 40 95 40 Water Dark
+Shaymin 100 100 100 100 100 Grass
+Shaymin-S 100 103 75 120 75 Grass Flying
+Shedinja 1 90 45 30 30 Bug Ghost
+Shelgon 65 95 100 60 50 Dragon
+Shellder 30 65 100 45 25 Water
+Shellos 76 48 48 57 62 Water
+Shelmet 50 40 85 40 65 Bug
+Shieldon 30 42 118 42 88 Rock Steel
+Shiftry 90 100 60 90 60 Grass Dark
+Shinx 45 65 34 40 34 Electric
+Shroomish 60 40 60 40 60 Grass
+Shuckle 20 10 230 10 230 Bug Rock
+Shuppet 44 75 35 63 33 Ghost
+Sigilyph 72 58 80 103 80 Psychic Flying
+Silcoon 50 35 55 25 25 Bug
+Simipour 75 98 63 98 63 Water
+Simisage 75 98 63 98 63 Grass
+Simisear 75 98 63 98 63 Fire
+Skarmory 65 80 140 40 70 Steel Flying
+Skiddo 66 65 48 62 57 Grass
+Skiploom 55 45 50 45 65 Grass Flying
+Skitty 50 45 45 35 35 Normal
+Skorupi 40 50 90 30 55 Poison Bug
+Skrelp 50 60 60 60 60 Poison Water
+Skuntank 103 93 67 71 61 Poison Dark
+Slaking 150 160 100 95 65 Normal
+Slakoth 60 60 60 35 35 Normal
+Sliggoo 68 75 53 83 113 Dragon
+Slowbro 95 75 110 100 80 Water Psychic
+Slowking 95 75 80 100 110 Water Psychic
+Slowpoke 90 65 65 40 40 Water Psychic
+Slugma 40 40 40 70 40 Fire
+Slurpuff 82 80 86 85 75 Fairy
+Smeargle 55 20 35 20 45 Normal
+Smoochum 45 30 15 85 65 Ice Psychic
+Sneasel 55 95 55 35 75 Dark Ice
+Snivy 45 45 55 45 55 Grass
+Snorlax 160 110 65 65 110 Normal
+Snorunt 50 50 50 50 50 Ice
+Snover 60 62 50 62 60 Grass Ice
+Snubbull 60 80 50 40 40 Fairy
+Solosis 45 30 40 105 50 Psychic
+Solrock 70 95 85 55 65 Rock Psychic
+Spearow 40 60 30 31 31 Normal Flying
+Spewpa 45 22 60 27 30 Bug
+Spheal 70 40 50 55 50 Ice Water
+Spinarak 40 60 40 40 40 Bug Poison
+Spinda 60 60 60 60 60 Normal
+Spiritomb 50 92 108 92 108 Ghost Dark
+Spoink 60 25 35 70 80 Psychic
+Spritzee 78 52 60 63 65 Fairy
+Squirtle 44 48 65 50 64 Water
+Stantler 73 95 62 85 65 Normal
+Staraptor 85 120 70 50 60 Normal Flying
+Staravia 55 75 50 40 40 Normal Flying
+Starly 40 55 30 30 30 Normal Flying
+Starmie 60 75 85 100 85 Water Psychic
+Staryu 30 45 55 70 55 Water
+Steelix 75 85 200 55 65 Steel Ground
+Stoutland 85 110 90 45 90 Normal
+Stunfisk 109 66 84 81 99 Ground Electric
+Stunky 63 63 47 41 41 Poison Dark
+Sudowoodo 70 100 115 30 65 Rock
+Suicune 100 75 115 90 115 Water
+Sunflora 75 75 55 105 85 Grass
+Sunkern 30 30 30 30 30 Grass
+Surskit 40 30 32 50 52 Bug Water
+Swablu 45 40 60 40 75 Normal Flying
+Swadloon 55 63 90 50 80 Bug Grass
+Swalot 100 73 83 73 83 Poison
+Swampert 100 110 90 85 90 Water Ground
+Swanna 75 87 63 87 63 Water Flying
+Swellow 60 85 60 50 50 Normal Flying
+Swinub 50 50 40 30 30 Ice Ground
+Swirlix 62 48 66 59 57 Fairy
+Swoobat 67 57 55 77 55 Psychic Flying
+Sylveon 95 65 65 110 130 Fairy
+Taillow 40 55 30 30 30 Normal Flying
+Talonflame 78 81 71 74 69 Fire Flying
+Tangela 65 55 115 100 40 Grass
+Tangrowth 100 100 125 110 50 Grass
+Tauros 75 100 95 40 70 Normal
+Teddiursa 60 80 50 50 50 Normal
+Tentacool 40 40 35 50 100 Water Poison
+Tentacruel 80 70 65 80 120 Water Poison
+Tepig 65 63 45 45 45 Fire
+Terrakion 91 129 90 72 90 Rock Fighting
+Throh 120 100 85 30 85 Fighting
+Thundurus 79 115 70 125 80 Electric Flying
+Thundurus-T 79 105 70 145 80 Electric Flying
+Timburr 75 80 55 25 35 Fighting
+Tirtouga 54 78 103 53 45 Water Rock
+Togekiss 85 50 95 120 115 Fairy Flying
+Togepi 35 20 65 40 65 Fairy
+Togetic 55 40 85 80 105 Fairy Flying
+Torchic 45 60 40 70 50 Fire
+Torkoal 70 85 140 85 70 Fire
+Tornadus 79 115 70 125 80 Flying
+Tornadus-T 79 100 80 110 90 Flying
+Torterra 95 109 105 75 85 Grass Ground
+Totodile 50 65 64 44 48 Water
+Toxicroak 83 106 65 86 65 Poison Fighting
+Tranquill 62 77 62 50 42 Normal Flying
+Trapinch 45 100 45 45 45 Ground
+Treecko 40 45 35 65 55 Grass
+Trevenant 85 110 76 65 82 Ghost Grass
+Tropius 99 68 83 72 87 Grass Flying
+Trubbish 50 50 62 40 62 Poison
+Turtwig 55 68 64 45 55 Grass
+Tympole 50 50 40 50 40 Water
+Tynamo 35 55 40 45 40 Electric
+Typhlosion 78 84 78 109 85 Fire
+Tyranitar 100 134 110 95 100 Rock Dark
+Tyrantrum 82 121 119 69 59 Rock Dragon
+Tyrogue 35 35 35 35 35 Fighting
+Tyrunt 58 89 77 45 45 Rock Dragon
+Umbreon 95 65 110 60 130 Dark
+Unfezant 80 115 80 65 55 Normal Flying
+Unown 48 72 48 72 48 Psychic
+Ursaring 90 130 75 75 75 Normal
+Uxie 75 75 130 75 130 Psychic
+Vanillish 51 65 65 80 75 Ice
+Vanillite 36 50 50 65 60 Ice
+Vanilluxe 71 95 85 110 95 Ice
+Vaporeon 130 65 60 110 95 Water
+Venipede 30 45 59 30 39 Bug Poison
+Venomoth 70 65 60 90 75 Bug Poison
+Venonat 60 55 50 40 55 Bug Poison
+Venusaur 80 82 83 100 100 Grass Poison
+Vespiquen 70 80 102 80 102 Bug Flying
+Vibrava 50 70 50 50 50 Ground Dragon
+Victini 100 100 100 100 100 Psychic Fire
+Victreebel 80 105 65 100 70 Grass Poison
+Vigoroth 80 80 80 55 55 Normal
+Vileplume 75 80 85 110 90 Grass Poison
+Virizion 91 90 72 90 129 Grass Fighting
+Vivillon 80 52 50 90 50 Bug Flying
+Volbeat 65 73 55 47 75 Bug
+Volcarona 85 60 65 135 105 Bug Fire
+Voltorb 40 30 50 55 55 Electric
+Vullaby 70 55 75 45 65 Dark Flying
+Vulpix 38 41 40 50 65 Fire
+Wailmer 130 70 35 70 35 Water
+Wailord 170 90 45 90 45 Water
+Walrein 110 80 90 95 90 Ice Water
+Wartortle 59 63 80 65 80 Water
+Watchog 60 85 69 60 69 Normal
+Weavile 70 120 65 45 85 Dark Ice
+Weedle 40 35 30 20 20 Bug Poison
+Weepinbell 65 90 50 85 45 Grass Poison
+Weezing 65 90 120 85 70 Poison
+Whimsicott 60 67 85 77 75 Grass Fairy
+Whirlipede 40 55 99 40 79 Bug Poison
+Whiscash 110 78 73 76 71 Water Ground
+Whismur 64 51 23 51 23 Normal
+Wigglytuff 140 70 45 85 50 Normal Fairy
+Wingull 40 30 30 55 30 Water Flying
+Wobbuffet 190 33 58 33 58 Psychic
+Woobat 55 45 43 55 43 Psychic Flying
+Wooper 55 45 45 25 25 Water Ground
+Wormadam-P 60 59 85 79 105 Bug Grass
+Wormadam-S 60 79 105 59 85 Bug Ground
+Wormadam-T 60 69 95 69 95 Bug Steel
+Wurmple 45 45 35 20 30 Bug
+Wynaut 95 23 48 23 48 Psychic
+Xatu 65 75 70 95 70 Psychic Flying
+Xerneas 126 131 95 131 98 Fairy
+Yamask 38 30 85 55 65 Ghost
+Yanma 65 65 45 75 45 Bug Flying
+Yanmega 86 76 86 116 56 Bug Flying
+Yveltal 126 131 95 131 98 Dark Flying
+Zangoose 73 115 60 60 60 Normal
+Zapdos 90 90 85 125 90 Electric Flying
+Zebstrika 75 100 63 80 63 Electric
+Zekrom 100 150 120 120 100 Dragon Electric
+Zigzagoon 38 30 41 30 41 Normal
+Zoroark 60 105 60 120 60 Dark
+Zorua 40 65 40 80 40 Dark
+Zubat 40 45 35 30 40 Poison Flying
+Zweilous 72 85 70 65 70 Dark Dragon
+Zygarde 108 100 121 81 95 Dragon Ground

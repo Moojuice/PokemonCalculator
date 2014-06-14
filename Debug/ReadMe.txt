@@ -1,0 +1,1 @@
+This must be run from the terminal unfortunately because it requires arguments! (Needs the team.txt file name) 

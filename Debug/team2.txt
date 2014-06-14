@@ -1,0 +1,6 @@
+pikachu thunder_shock 
+squirtle water_gun
+bulbasaur vine_whip
+charmander ember
+pidgey peck
+eevee tackle
